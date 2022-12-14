@@ -27,26 +27,28 @@ This is a web based application developed for Agriculture related telugu based w
    
 
 ### Home -
-
-
+![joseph1](https://user-images.githubusercontent.com/118347447/207562224-ae05ee33-67c6-4dbb-8004-bad5adcc272c.png)
 
 
 
 ### About -
-
-
-
-
-### Contact  -
-
-
+![joseph2](https://user-images.githubusercontent.com/118347447/207562288-0921711c-f0f3-4c57-8e85-9d1ed05c6c7a.png)
 
 
 
 
 ### Services  -
+![joseph3](https://user-images.githubusercontent.com/118347447/207562411-ca27bcc4-6d7a-4790-b7b8-e4903d476d20.png)
 
 
+
+### contact -
+![joseph4](https://user-images.githubusercontent.com/118347447/207562457-04a3d69a-5ee8-48c8-b5a7-6aebac6e4941.png)
+
+
+
+### Earthbot -
+![joseph5](https://user-images.githubusercontent.com/118347447/207562509-9964a706-cba8-4456-bd99-2ce6d4971399.png)
 
 
 
