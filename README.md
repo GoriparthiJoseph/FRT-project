@@ -8,7 +8,7 @@ This is a web based application developed for Agriculture related telugu based w
 
 *Project Link* - https://kind-desert-0339c3400.2.azurestaticapps.net
 
-*Project demo video link*  - 
+*Project demo video link*  - https://youtu.be/tGXonTFFMJg
 
 ## Features and Functionalities 😃
 
